@@ -1,0 +1,17 @@
+{
+  "homepage": "https://github.com/loosebazooka/bcr-module-provenance",
+  "maintainers": [
+    {
+      "email": "appu@google.com",
+      "github": "loosebazooka",
+      "name": "Appu Goundan"
+    }
+  ],
+  "repository": [
+    "github:loosebazooka/bcr-module-provenance"
+  ],
+  "versions": [
+    "1.0.0"
+  ],
+  "yanked_versions": {}
+}
