@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/loosebazooka/rules_lint/releases/download/v9.9.9-rc1/source.json.intoto.jsonl",
+            "integrity": "sha256-LptMP/IIO83t4Ah+mTiM3WYqPuepXtKznMHPgHszFoQ="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/loosebazooka/rules_lint/releases/download/v9.9.9-rc1/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-/yZUSgfz7QTReACJbUD63MPLWWTbA7aDzdLWeAaBdL0="
+        },
+        "rules_lint-v9.9.9-rc1.tar.gz": {
+            "url": "https://github.com/loosebazooka/rules_lint/releases/download/v9.9.9-rc1/rules_lint-v9.9.9-rc1.tar.gz.intoto.jsonl",
+            "integrity": "sha256-KYmLxjWjMRAT7ZDG2qbCyutAznzJEWNJE7piepZmtvU="
+        }
+    }
+}

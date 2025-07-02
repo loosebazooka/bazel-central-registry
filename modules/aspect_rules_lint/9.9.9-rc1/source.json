@@ -1,0 +1,10 @@
+{
+    "integrity": "sha256-GSkRdDB/ROZxpzSnJG7ducU/vELOZEvz5mgI1ujUgno=",
+    "strip_prefix": "rules_lint-9.9.9-rc1",
+    "url": "https://github.com/loosebazooka/rules_lint/releases/download/v9.9.9-rc1/rules_lint-v9.9.9-rc1.tar.gz",
+    "patches": {
+        "go_dev_deps.patch": "sha256-BCR68oc7ub1mjIm3kwX+6641GREyEo+pdFkCtRwfECM=",
+        "module_dot_bazel_version.patch": "sha256-WydSIOfgrPw5Rrcr0HtBa/UAiAGexAfbvRJxHzoCmRQ="
+    },
+    "patch_strip": 1
+}
